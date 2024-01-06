@@ -1,0 +1,22 @@
+body {
+    background-color: #870f07;
+    font-family: arial, sans-serif;
+}
+
+h1, div, .link {
+    color: white;
+    text-align: center;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+h1 {
+    font-size: 75px;
+}
+
+div {
+    font-size: 30px;
+}
